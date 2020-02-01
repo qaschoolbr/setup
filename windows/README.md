@@ -27,6 +27,16 @@
 
 ### Docker
 
-Primeiro identifique a versão do seu sistema operacional, isto é, se ele é **Home** ou **Enterprise**. Em seguida, clique no link correspondente à versão identificada.
+Primeiro identifique a edição do seu sistema operacional, isto é, se ela é __Home__ ou __Pro__. Siga estes passos para identificar a edição do seu Sistema Operacional:
 
-[Home](./windows/home.md) | [Enterprise](./windows/enterprise.md)
+  - Abra a janela __Executar__ com o atalho <kbd>WINDOWS</kbd> + <kbd>R</kbd>
+  - Digite _winver_ e clique em <kbd>OK</kbd>
+
+  A imagem abaixo mostra onde você pode identificar a edição, neste caso é um __Windows 10 Pro__, mas poderia ser __Windows 10 Home__.
+
+  ![Sobre o Windows](./winver.png)
+
+  ou use o atalho <kbd>WINDOWS</kbd> + <kbd>I</kbd>, clique em __Sistema__ > __Sobre__ e desça até a seção _Especificações do Windows_.
+
+
+Qual é a sua edição, [Home](./home.md) ou [Pro](./pro.md)?
