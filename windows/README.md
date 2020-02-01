@@ -27,7 +27,7 @@
 
 ### Docker
 
-Primeiro identifique a edição do seu sistema operacional, isto é, se ela é __Home__ ou __Pro__. Siga estes passos para identificar a edição do seu Sistema Operacional:
+Primeiro, siga estes passos para identificar a edição do seu Sistema Operacional, isto é, se ela é __Home__ ou __Pro__:
 
   - Abra a janela __Executar__ com o atalho <kbd>WINDOWS</kbd> + <kbd>R</kbd>
   - Digite _winver_ e clique em <kbd>OK</kbd>
