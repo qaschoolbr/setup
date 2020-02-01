@@ -1,6 +1,4 @@
-# QA School
-
-## QAOps Automation para WebApps com Ruby
+# QAOps Automation para WebApps com Ruby
 
 Por favor, selecione o seu sistema operacional (SO):
 
