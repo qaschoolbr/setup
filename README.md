@@ -2,8 +2,6 @@
 
 ## QAOps Automation para WebApps com Ruby
 
-### Sistema Operacional
-
 Por favor, selecione o seu sistema operacional (SO):
 
 <table>
