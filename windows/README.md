@@ -1,14 +1,13 @@
-# QA School - QAOps
+# Windows
 
-## Windows
+## Criação de Contas
 
-### GitHub
+* GitHub:
+  - Crie uma conta no [Github](https://github.com) caso ainda não a possua.
+* Docker Hub
+  - Crie uma conta no [Docker Hub](https://hub.docker.com) caso ainda não a possua.
 
-- Crie uma conta no [Github](https://github.com) caso ainda não a possua.
-
-### Docker Hub
-
-- Crie uma conta no [Docker Hub](https://hub.docker.com) caso ainda não a possua.
+## Ambiente de Desenvolvimento
 
 ### Visual Studio Code
 
@@ -25,3 +24,9 @@
   * [Ruby Solargraph](https://marketplace.visualstudio.com/items?itemName=castwide.solargraph)
   * [View In Browser](https://marketplace.visualstudio.com/items?itemName=qinjia.view-in-browser)
   * [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
+
+### Docker
+
+Primeiro identifique a versão do seu sistema operacional, isto é, se ele é **Home** ou **Enterprise**. Em seguida, clique no link correspondente à versão identificada.
+
+[Home](./windows/home.md) | [Enterprise](./windows/enterprise.md)
