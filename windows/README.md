@@ -38,9 +38,17 @@ Então, qual é a edição do seu Sistema Operacional? [Não sei, quero descobri
 
 > O Docker Toolbox fornece uma maneira de usar o Docker em sistemas Windows que não atendem aos requisitos mínimos do sistema para o aplicativo Docker for Windows ([Instruções de Instalação](https://docs.docker.com/v17.12/toolbox/toolbox_install_windows/)).
 
+Pós-Instalação:
+  - Execute o __Docker Quickstart Terminal__
+    - Um arquivo _.iso_ será baixado e inicializado no VirtualBox;
+    - O sistema solicitará permissão para o VirtualBox, aprove todas;
+    - Ao final, uma VM do Virtualbox estará rodando o Docker.
+
 Observações:
   - O VirtualBox será instalado durante o processo de instalação;
-  - Caso seu dispositivo possua o Hyper-V, desative-o.
+  - Caso seu dispositivo possua o Hyper-V, desative-o;
+  - Sempre execute o __Docker Quickstart Terminal__ ao iniciar o dispositivo.
+
 </details>
 
 <details>
