@@ -1,3 +1,5 @@
+![Docker Toolbox](./images/toolbox.png)
+
 # Docker Toolbox
 
 O Docker Toolbox fornece uma maneira de usar o Docker em sistemas Windows que não atendem aos requisitos mínimos do sistema para o aplicativo Docker Desktop.
@@ -14,27 +16,27 @@ O Docker Toolbox fornece uma maneira de usar o Docker em sistemas Windows que n�
 2. Clique em <kbd>Sim</kbd> para permitir a execução do software;
 3. Clique em <kbd>Avançar</kbd> (<kbd>Next</kbd>);
 
-    ![Welcome](./toolbox/welcome.png)
+    ![Welcome](./images/welcome.png)
 
 4. Em __Selecionar Componentes__, clique em <kbd>Avançar</kbd> (<kbd>Next</kbd>);
 
-    ![Components](./toolbox/components.png)
+    ![Components](./images/components.png)
 
 5. Em __Selecionar Tarefas Adicionais__, clique em <kbd>Avançar</kbd> (<kbd>Next</kbd>);
 
-    ![Tasks](./toolbox/tasks.png)
+    ![Tasks](./images/tasks.png)
 
 6. Em __Pronto para Instalar__, clique em <kbd>Installar</kbd> (<kbd>Install</kbd>);
 
-    ![Ready](./toolbox/ready.png)
+    ![Ready](./images/ready.png)
 
 7. Clique em <kbd>Instalar</kbd> quando aparecer a janela de instalação do Oracle Corporation;
 
-    ![Permission](./toolbox/permission.png)
+    ![Permission](./images/permission.png)
 
 8. Pronto, clique em <kbd>Finalizar</kbd> (<kbd>Finish</kbd>) para concluir.
 
-    ![Finish](./toolbox/finish.png)
+    ![Finish](./images/finish.png)
 
 ## Pós-Instalação
 
@@ -43,7 +45,7 @@ O Docker Toolbox fornece uma maneira de usar o Docker em sistemas Windows que n�
 3. O sistema solicitará permissões para o VirtualBox, aprove todas;
 4. Ao final, uma VM do Virtualbox estará rodando o Docker.
 
-    ![Terminal](./toolbox/terminal.png)
+    ![Terminal](./images/terminal.png)
 
 ## Verificação
 
