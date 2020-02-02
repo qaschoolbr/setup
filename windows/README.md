@@ -37,6 +37,10 @@ Então, qual é a edição do seu Sistema Operacional? [Não sei, quero descobri
 <p>Use o Docker Toolbox</p>
 
 > O Docker Toolbox fornece uma maneira de usar o Docker em sistemas Windows que não atendem aos requisitos mínimos do sistema para o aplicativo Docker for Windows ([Instruções de Instalação](https://docs.docker.com/v17.12/toolbox/toolbox_install_windows/)).
+
+Observações:
+  - O VirtualBox será instalado durante o processo de instalação;
+  - Caso seu dispositivo possua o Hyper-V, desative-o.
 </details>
 
 <details>
