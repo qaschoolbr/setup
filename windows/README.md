@@ -31,23 +31,21 @@ O docker dispõe de duas versões: Desktop e Toolbox. A diferença está na edi�
 
 Então, qual é a edição do seu Sistema Operacional? [Não sei, quero descobrir](./about.md).
 
+<details>
+<summary>Windows Home</summary>
+<p>Use o Docker Toolbox</p>
 
-- Edições:
-  <details>
-  <summary>Windows Home</summary>
-  <p>Use o Docker Toolbox</p>
+> O Docker Toolbox fornece uma maneira de usar o Docker em sistemas Windows que não atendem aos requisitos mínimos do sistema para o aplicativo Docker for Windows ([Instruções de Instalação](https://docs.docker.com/v17.12/toolbox/toolbox_install_windows/)).
+</details>
 
-  > O Docker Toolbox fornece uma maneira de usar o Docker em sistemas Windows que não atendem aos requisitos mínimos do sistema para o aplicativo Docker for Windows ([Instruções de Instalação](https://docs.docker.com/v17.12/toolbox/toolbox_install_windows/)).
-  </details>
+<details>
+<summary>Windows Pro / Enterprise / Education</summary>
+<p>Use o Docker Desktop</p>
 
-  <details>
-  <summary>Windows Pro / Enterprise / Education</summary>
-  <p>Use o Docker Desktop</p>
+> O Docker Desktop para Windows é a versão comunitária do Docker para Microsoft Windows. Você pode baixar o Docker Desktop para Windows no Docker Hub ([Instruções de Instalação](https://docs.docker.com/docker-for-windows/install/)).
 
-  > O Docker Desktop para Windows é a versão comunitária do Docker para Microsoft Windows. Você pode baixar o Docker Desktop para Windows no Docker Hub ([Instruções de Instalação](https://docs.docker.com/docker-for-windows/install/)).
-
-  Observações:
-    - A arquitetura do processador do dispositivo deve ser 64 bits;
-    - O dispositivo precisa de, no mínimo, 4 GB de memória RAM;
-    - O Hyper-V do dispositivo tem de estar habilitado.
-  </details>
+Observações:
+  - A arquitetura do processador do dispositivo deve ser 64 bits;
+  - O dispositivo precisa de, no mínimo, 4 GB de memória RAM;
+  - O Hyper-V do dispositivo tem de estar habilitado.
+</details>
