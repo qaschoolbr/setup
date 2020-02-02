@@ -37,6 +37,8 @@ O docker dispõe de duas versões: Desktop e Toolbox. A diferença está na edi�
   <details>
   <summary>Windows Home</summary>
   <br>
+
+  ![Docker Toolbox](./toolbox.png)
   <p>Use o Docker Toolbox</p>
 
   > O Docker Toolbox fornece uma maneira de usar o Docker em sistemas Windows que não atendem aos requisitos mínimos do sistema para o aplicativo Docker for Windows ([Instruções de Instalação](https://docs.docker.com/v17.12/toolbox/toolbox_install_windows/)).
@@ -57,6 +59,8 @@ O docker dispõe de duas versões: Desktop e Toolbox. A diferença está na edi�
   <details>
   <summary>Windows Pro / Enterprise / Education</summary>
   <br>
+
+  ![Docker Desktop](./docker.png)
   <p>Use o Docker Desktop</p>
 
   > O Docker Desktop para Windows é a versão comunitária do Docker para Microsoft Windows. Você pode baixar o Docker Desktop para Windows no Docker Hub ([Instruções de Instalação](https://docs.docker.com/docker-for-windows/install/)).
