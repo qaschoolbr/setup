@@ -33,6 +33,7 @@ Então, qual é a edição do seu Sistema Operacional? [Não sei, quero descobri
 
 <details>
 <summary>Windows Home</summary>
+<br>
 <p>Use o Docker Toolbox</p>
 
 > O Docker Toolbox fornece uma maneira de usar o Docker em sistemas Windows que não atendem aos requisitos mínimos do sistema para o aplicativo Docker for Windows ([Instruções de Instalação](https://docs.docker.com/v17.12/toolbox/toolbox_install_windows/)).
@@ -40,6 +41,7 @@ Então, qual é a edição do seu Sistema Operacional? [Não sei, quero descobri
 
 <details>
 <summary>Windows Pro / Enterprise / Education</summary>
+<br>
 <p>Use o Docker Desktop</p>
 
 > O Docker Desktop para Windows é a versão comunitária do Docker para Microsoft Windows. Você pode baixar o Docker Desktop para Windows no Docker Hub ([Instruções de Instalação](https://docs.docker.com/docker-for-windows/install/)).
