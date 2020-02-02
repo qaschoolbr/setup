@@ -27,9 +27,27 @@
 
 ### Docker
 
-O docker dispõe de duas versões: a padrão e a Toolbox. A diferença está na edição do sistema operacional do Windows. Se a edição for __Home__, então você precisará instalar o Docker Toolbox, do contrário, utilize a instalação padrão.
+O docker dispõe de duas versões: Desktop e Toolbox. A diferença está na edição do sistema operacional do Windows. Se a edição for __Home__, então você precisará instalar o Docker Toolbox, do contrário, utilize a instalação padrão.
 
-Então, qual é a edição do seu Sistema Operacional?
- - [Home](./home.md)
- - [Pro](./pro.md)
- - [Não sei, quero descobrir](./about.md)
+Então, qual é a edição do seu Sistema Operacional? [Não sei, quero descobrir](./about.md)
+
+[Instruções de Instalação](https://docs.docker.com/docker-for-windows/install/)
+
+- Edições:
+  <details>
+  <summary>Windows Home</summary>
+  <p>Use o Docker Toolbox</p>
+
+  <!-- [Baixar Docker Toolbox](https://docs.docker.com/docker-for-windows/install/) -->
+  </details>
+
+  <details>
+  <summary>Windows Pro / Enterprise / Education</summary>
+
+  [Baixar Docker Desktop](https://download.docker.com/win/stable/Docker%20Desktop%20Installer.exe)
+  </details>
+
+Observações:
+- A arquitetura do processador do dispositivo deve ser 64 bits;
+- O dispositivo precisa de, no mínimo, 4 GB de memória RAM;
+- O Hyper-V do dispositivo tem de estar habilitado.
