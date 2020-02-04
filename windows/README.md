@@ -45,3 +45,9 @@ Então, qual é a edição do seu Sistema Operacional?
 - [Home](./docker/toolbox/toolbox.md)
 - [Pro / Enterprise / Education](./docker/desktop/desktop.md)
 - [Não sei, quero descobrir](./about.md)
+
+### Ruby
+
+- Baixe e Instale o Ruby
+
+  [Instruções de Instalacão](./ruby/ruby.md)
