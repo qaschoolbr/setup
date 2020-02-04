@@ -44,7 +44,7 @@
 
 ## Verificação
 
-Para certifica-se de que o Ruby está pronto para uso, execute o seguinte comando no terminal:
+Para certificar-se de que o Ruby está pronto para uso, execute o seguinte comando no terminal:
 
 ```bash
 $ ruby --version

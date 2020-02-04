@@ -49,7 +49,7 @@ O Docker Toolbox fornece uma maneira de usar o Docker em sistemas Windows que n�
 
 ## Verificação
 
-Para certifica-se de que o Docker está pronto para uso, execute o seguinte comando no terminal:
+Para certificar-se de que o Docker está pronto para uso, execute o seguinte comando no terminal:
 
 ```bash
 $ docker --version

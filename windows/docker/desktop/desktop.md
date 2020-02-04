@@ -49,7 +49,7 @@ O Docker Desktop para Windows é a versão comunitária do Docker para Microsoft
 
 ## Verificação
 
-Para certifica-se de que o Docker está pronto para uso, execute o seguinte comando no terminal:
+Para certificar-se de que o Docker está pronto para uso, execute o seguinte comando no terminal:
 
 ```bash
 $ docker --version
