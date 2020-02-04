@@ -15,7 +15,7 @@ Siga estritamente a ordem de instalação elencada abaixo:
 
 * Baixe e Instale o editor VS Code
 
-  [Instruções de Instalacão](./vscode/README.md)
+  [Instruções de Instalação](./vscode/README.md)
 
 * Em seguida, instale as seguintes extensões no VS Code:
   * [Cucumber (Gherkin)](https://marketplace.visualstudio.com/items?itemName=alexkrechik.cucumberautocomplete)
@@ -37,23 +37,23 @@ Siga estritamente a ordem de instalação elencada abaixo:
 
 * Baixe e Instale o Git
 
-  [Instruções de Instalacão](./git/README.md)
+  [Instruções de Instalação](./git/README.md)
 
 ### Ruby
 
 * Baixe e Instale o Ruby
 
-  [Instruções de Instalacão](./ruby/README.md)
+  [Instruções de Instalação](./ruby/README.md)
 
 ### Selenium WebDrivers
 
 * Baixe e Instale o Chromedriver
 
-  [Instruções de Instalacão](./selenium/README.md#chromedriver)
+  [Instruções de Instalação](./selenium/README.md#chromedriver)
 
 * Baixe e Instale o Geckodriver
 
-  [Instruções de Instalacão](./selenium/README.md#geckodriver)
+  [Instruções de Instalação](./selenium/README.md#geckodriver)
 
 ### Docker
 
