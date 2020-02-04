@@ -53,5 +53,5 @@ $ ruby --version
 Ele deve retornar a versão do Ruby em execução, por exemplo:
 
 ```bash
-ruby 2.6.4p104 (2019-08-28 revision 67798)
+ruby 2.6.5p114 (2019-10-01 revision 67812) [x64-mingw32]
 ```
