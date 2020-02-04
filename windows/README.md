@@ -3,9 +3,9 @@
 ## Criação de Contas
 
 * GitHub:
-  - Crie uma conta no [Github](https://github.com) caso ainda não a possua.
+  * Crie uma conta no [Github](https://github.com) caso ainda não a possua.
 * Docker Hub
-  - Crie uma conta no [Docker Hub](https://hub.docker.com) caso ainda não a possua.
+  * Crie uma conta no [Docker Hub](https://hub.docker.com) caso ainda não a possua.
 
 ## Ambiente de Desenvolvimento
 
@@ -13,15 +13,18 @@ Siga estritamente a ordem de instalação elencada abaixo:
 
 ### Visual Studio Code
 
-- Baixe e Instale o editor VS Code
+* Baixe e Instale o editor VS Code
 
-  [Instruções de Instalacão](./vscode/vscode.md)
+  [Instruções de Instalacão](./vscode/README.md)
 
-- Em seguida, instale as seguintes extensões no VS Code:
+* Em seguida, instale as seguintes extensões no VS Code:
   * [Cucumber (Gherkin)](https://marketplace.visualstudio.com/items?itemName=alexkrechik.cucumberautocomplete)
   * [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+  * [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
   * [Gherkin Indent](https://marketplace.visualstudio.com/items?itemName=AravindKumar.gherkin-indent)
+  * [Jenkinsfile Support](https://marketplace.visualstudio.com/items?itemName=secanis.jenkinsfile-support)
   * [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+  * [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
   * [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
   * [RSpec Snippets](https://marketplace.visualstudio.com/items?itemName=karunamurti.rspec-snippets)
   * [Ruby](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby)
@@ -32,9 +35,15 @@ Siga estritamente a ordem de instalação elencada abaixo:
 
 ### Git for Windows
 
-- Baixe e Instale o Git
+* Baixe e Instale o Git
 
-  [Instruções de Instalacão](./git/git.md)
+  [Instruções de Instalacão](./git/README.md)
+
+### Ruby
+
+* Baixe e Instale o Ruby
+
+  [Instruções de Instalacão](./ruby/README.md)
 
 ### Docker
 
@@ -42,12 +51,6 @@ O docker dispõe de duas versões: Desktop e Toolbox. A diferença está na edi�
 
 Então, qual é a edição do seu Sistema Operacional?
 
-- [Home](./docker/toolbox/toolbox.md)
-- [Pro / Enterprise / Education](./docker/desktop/desktop.md)
-- [Não sei, quero descobrir](./about.md)
-
-### Ruby
-
-- Baixe e Instale o Ruby
-
-  [Instruções de Instalacão](./ruby/ruby.md)
+* [Home](./docker/toolbox/README.md)
+* [Pro / Enterprise / Education](./docker/desktop/README.md)
+* [Não sei, quero descobrir](./system/README.md)
