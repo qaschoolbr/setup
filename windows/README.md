@@ -9,11 +9,7 @@
 
 ## Ambiente de Desenvolvimento
 
-### Git for Windows
-
-- Baixe e Instale o Git
-
-  [Instruções de Instalacão](./git/git.md)
+Siga estritamente a ordem de instalação elencada abaixo:
 
 ### Visual Studio Code
 
@@ -30,6 +26,12 @@
   * [Ruby Solargraph](https://marketplace.visualstudio.com/items?itemName=castwide.solargraph)
   * [View In Browser](https://marketplace.visualstudio.com/items?itemName=qinjia.view-in-browser)
   * [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
+
+### Git for Windows
+
+- Baixe e Instale o Git
+
+  [Instruções de Instalacão](./git/git.md)
 
 ### Docker
 
