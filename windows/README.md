@@ -13,7 +13,10 @@ Siga estritamente a ordem de instalação elencada abaixo:
 
 ### Visual Studio Code
 
-- Baixe e Instale o editor [VS Code](https://code.visualstudio.com)
+- Baixe e Instale o editor VS Code
+
+  [Instruções de Instalacão](./vscode/vscode.md)
+
 - Em seguida, instale as seguintes extensões no VS Code:
   * [Cucumber (Gherkin)](https://marketplace.visualstudio.com/items?itemName=alexkrechik.cucumberautocomplete)
   * [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)

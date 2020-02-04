@@ -58,6 +58,6 @@ O Git é um sistema de controle de versão distribuído de código aberto e grat
 
     ![Selecionar Componentes](./images/Screenshot_11.png)
 
-14. Para finalizar, desmarque a opção __View Release Notes__ e clique em <kbd>Next</kbd>;
+14. Para finalizar, desmarque a opção __View Release Notes__ e clique em <kbd>Next</kbd>.
 
     ![Selecionar Componentes](./images/Screenshot_12.png)
