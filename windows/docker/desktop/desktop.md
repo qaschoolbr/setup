@@ -58,5 +58,5 @@ $ docker --version
 Ele deve retornar a versão do Docker em execução, por exemplo:
 
 ```bash
-Docker version 18.03.0-ce, build 0520e24302
+Docker version 19.03.5, build 633a0ea
 ```
