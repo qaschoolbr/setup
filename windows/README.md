@@ -93,3 +93,27 @@ $ docker pull redislabs/redisinsight
 ```bash
 $ docker pull ruby
 ```
+
+### Zoom
+
+O treinamento será transmitido através do aplicativo Zoom.
+
+1. Baixe e Instale o Zoom;
+
+    [Instruções](...)
+
+2. Ao finalizar a instalação, informe o seu nome e clique em <kbd>Join Meeting</kbd>;
+
+    ![Inserir Nome](./zoom/images/name.png)
+
+3. Em seguida, clique em <kbd>Join with Computer Audio</kbd>;
+
+    ![Entrar](./zoom/images/join.png)
+
+4. Se você entrar na sala de espera, aguarde o início da transmissão do evento.
+
+### Play with Docker
+
+Caso você não queira instalar as ferramentas em seu dispositivo, pode usar o ambiente online. Basta clicar no botão abaixo que toda a estrutura necessária para o projeto será levantado para uso:
+
+[![Try in PWD](https://raw.githubusercontent.com/play-with-docker/stacks/master/assets/images/button.png)](https://labs.play-with-docker.com/?stack=https://raw.githubusercontent.com/qaschoolbr/cucumber/master/qaops-stack.yaml)
