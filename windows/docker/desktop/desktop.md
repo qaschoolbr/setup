@@ -17,19 +17,35 @@ O Docker Desktop para Windows é a versão comunitária do Docker para Microsoft
 1. Execute o arquivo de instalação após baixá-lo;
 2. Clique em <kbd>Sim</kbd> para permitir a execução do software;
 3. Aguarde que o Docker baixe os pacotes necessários para continuar a instalação;
+
+    ![Baixar](./images/baixando.png)
+
 4. Em __Configurações__, clique em <kbd>Ok</kbd>;
+
+    ![Configuracao](./images/configuracao.png)
+
 5. Ao finalizar a instalação, clique em <kbd>Fechar e Sair</kbd> (<kbd>Close and log out</kbd>);
+
+    ![Configuracao](./images/close.png)
+
 6. Uma notificação será exibida informando que o Docker está iniciando.
 
 
 ## Pós-Instalação
 
 1. Depois de iniciado o Docker, acesse suas configurações;
-2. Selecione o menu __Shared Drives__;
-3. Marque a unidade de disco __C__;
-4. Em seguida, clique em <kbd>Aplicar</kbd> (<kbd>Apply</kbd>);
-5. Informe sua senha para permitir o compartilhamento de unidade de disco;
-6. Para concluir, clique em <kbd>OK</kbd>.
+
+    ![Icone](./images/icone.png)
+
+    ![Configuracoes](./images/configuracoes.png)
+
+2. Selecione o menu __Shared Drives__ e selecione a unidade de disco __C__;
+
+    ![Shared](./images/shared.png)
+
+3. Em seguida, clique em <kbd>Aplicar e Reiniciar</kbd> (<kbd>Apply and Restart</kbd>);
+4. Informe sua senha para permitir o compartilhamento de unidade de disco, caso solicitado;
+5. Para concluir, clique em <kbd>OK</kbd>.
 
 ## Verificação
 
