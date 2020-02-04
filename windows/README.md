@@ -70,7 +70,19 @@ Então, qual é a edição do seu Sistema Operacional?
 Após instalar o Docker, execute os seguintes comandos, um a um, para baixar as imagens que serão utilizadas no treinamento:
 
 ```bash
-$ docker pull ruby
+$ docker pull jenkinsci/blueocean
+```
+
+```bash
+$ docker pull portainer/portainer
+```
+
+```bash
+$ docker pull qaschool/oficina
+```
+
+```bash
+$ docker pull qaschool/qaops
 ```
 
 ```bash
@@ -82,17 +94,5 @@ $ docker pull redislabs/redisinsight
 ```
 
 ```bash
-$ docker pull jenkinsci/blueocean
-```
-
-```bash
-$ docker pull portainer/portainer
-```
-
-```bash
-$ docker pull qaschool/qaops
-```
-
-```bash
-$ docker pull qaschool/oficina
+$ docker pull ruby
 ```
