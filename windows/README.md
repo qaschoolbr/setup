@@ -9,6 +9,12 @@
 
 ## Ambiente de Desenvolvimento
 
+### Git for Windows
+
+- Baixe e Instale o Git
+
+  [Instruções de Instalacão](./git/git.md)
+
 ### Visual Studio Code
 
 - Baixe e Instale o editor [VS Code](https://code.visualstudio.com)
