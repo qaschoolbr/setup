@@ -22,6 +22,7 @@ Siga estritamente a ordem de instalação elencada abaixo:
   * [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
   * [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
   * [Gherkin Indent](https://marketplace.visualstudio.com/items?itemName=AravindKumar.gherkin-indent)
+  * [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
   * [Jenkinsfile Support](https://marketplace.visualstudio.com/items?itemName=secanis.jenkinsfile-support)
   * [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
   * [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
@@ -47,13 +48,9 @@ Siga estritamente a ordem de instalação elencada abaixo:
 
 ### Selenium WebDrivers
 
-* Baixe e Instale o Chromedriver
+* Baixe e Instale o ChromeDriver e o GeckoDriver
 
-  [Instruções de Instalação](./selenium/README.md#chromedriver)
-
-* Baixe e Instale o Geckodriver
-
-  [Instruções de Instalação](./selenium/README.md#geckodriver)
+  [Instruções de Instalação](./selenium/README.md)
 
 ### Docker
 
