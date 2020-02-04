@@ -45,6 +45,16 @@ Siga estritamente a ordem de instalação elencada abaixo:
 
   [Instruções de Instalacão](./ruby/README.md)
 
+### Selenium WebDrivers
+
+* Baixe e Instale o Chromedriver
+
+  [Instruções de Instalacão](./selenium/README.md#chromedriver)
+
+* Baixe e Instale o Geckodriver
+
+  [Instruções de Instalacão](./selenium/README.md#geckodriver)
+
 ### Docker
 
 O docker dispõe de duas versões: Desktop e Toolbox. A diferença está na edição do sistema operacional do Windows. Se a edição for __Home__, então você precisará instalar o Docker Toolbox, do contrário, utilize a versão Desktop.
