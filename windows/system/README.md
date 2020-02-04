@@ -16,3 +16,7 @@ Primeiro, siga estes passos para identificar a edição do seu Sistema Operacion
     ou use o atalho <kbd>WINDOWS</kbd> + <kbd>I</kbd>, clique em __Sistema__ > __Sobre__ e desça até a seção _Especificações do Windows_.
 
     ![Sobre o Windows](./images/sobre.png)
+
+    ou use o atalho <kbd>WINDOWS</kbd> + <kbd>FN</kbd> + <kbd>Pause Break</kbd> para abrir a janela de informações básicas do computador.
+
+    ![Sobre o Windows](./images/info.png)

@@ -16,7 +16,7 @@
 
     ![License](./images/Screenshot_1.png)
 
-4. Em __Installation Destination and Optinal Tasks__, marque a opção _Use UTF-8 as default external encoding_ e clique em <kbd>Next</kbd>;
+4. Em __Installation Destination and Optional Tasks__, marque a opção _Use UTF-8 as default external encoding_ e clique em <kbd>Next</kbd>;
 
     ![Tasks](./images/Screenshot_2.png)
 

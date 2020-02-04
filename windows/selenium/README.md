@@ -9,7 +9,7 @@ O Selenium WebDriver comanda um navegador nativamente, como faria um usuário re
 1. Acesse o link [https://sites.google.com/a/chromium.org/chromedriver/downloads](https://sites.google.com/a/chromium.org/chromedriver/downloads);
 2. Baixe a versão do ChromeDriver correspondente à versão do Google Chrome instalada no seu dispositivo.
 
-    > Para saber a versão do Google Chrome do seu dispositivo, acesse: __Menu__ (3 pontos na vertical) > __Ajuda__ > __Sobre o Chrome__.
+    > Para saber a versão do Google Chrome do seu dispositivo, acesse: __Menu__ (3 pontos na vertical) > __Ajuda__ > __Sobre o Google Chrome__.
 
     ![Sobre o Chrome](./images/chrome.png)
 

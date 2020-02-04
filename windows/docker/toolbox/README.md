@@ -6,7 +6,7 @@ O Docker Toolbox fornece uma maneira de usar o Docker em sistemas Windows que n�
 
 ## Pré-Instalação
 
-- Desative o Hyper-V caso o seu dispositivo o possua.
+- Desative o Hyper-V caso o seu dispositivo o possua. ([Instruções](../hyperv/README.md#desativar-hyper-v))
 
 ## Instalação
 
@@ -14,19 +14,19 @@ O Docker Toolbox fornece uma maneira de usar o Docker em sistemas Windows que n�
 
 1. Execute o arquivo de instalação após baixá-lo;
 2. Clique em <kbd>Sim</kbd> para permitir a execução do software;
-3. Clique em <kbd>Avançar</kbd> (<kbd>Next</kbd>);
+3. Quando o instalador abrir, clique em <kbd>Next</kbd>;
 
     ![Welcome](./images/welcome.png)
 
-4. Em __Selecionar Componentes__, clique em <kbd>Avançar</kbd> (<kbd>Next</kbd>);
+4. Em __Select Components__, clique em <kbd>Next</kbd>;
 
     ![Components](./images/components.png)
 
-5. Em __Selecionar Tarefas Adicionais__, clique em <kbd>Avançar</kbd> (<kbd>Next</kbd>);
+5. Em __Select Additional Tasks__, clique em <kbd>Next</kbd>;
 
     ![Tasks](./images/tasks.png)
 
-6. Em __Pronto para Instalar__, clique em <kbd>Installar</kbd> (<kbd>Install</kbd>);
+6. Em __Ready to Install__, clique em <kbd>Install</kbd>;
 
     ![Ready](./images/ready.png)
 
@@ -34,7 +34,7 @@ O Docker Toolbox fornece uma maneira de usar o Docker em sistemas Windows que n�
 
     ![Permission](./images/permission.png)
 
-8. Pronto, clique em <kbd>Finalizar</kbd> (<kbd>Finish</kbd>) para concluir.
+8. Pronto, clique em <kbd>Finish</kbd> para concluir.
 
     ![Finish](./images/finish.png)
 
@@ -60,4 +60,3 @@ Ele deve retornar a versão do Docker em execução, por exemplo:
 ```bash
 Docker version 18.03.0-ce, build 0520e24302
 ```
-

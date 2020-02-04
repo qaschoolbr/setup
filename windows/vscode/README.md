@@ -12,7 +12,7 @@
 
 1. Execute o arquivo de instalação após baixá-lo;
 2. Clique em <kbd>Sim</kbd> para permitir a execução do software;
-3. Em __Select Setup Language__, selecione a sua língua preferida e clique em <kbd>Next</kbd>;
+3. Em __Select Setup Language__, selecione a sua língua preferida e clique em <kbd>OK</kbd>;
 
     ![Language](./images/Screenshot_1.png)
 

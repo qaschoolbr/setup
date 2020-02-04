@@ -6,7 +6,7 @@ O Docker Desktop para Windows é a versão comunitária do Docker para Microsoft
 
 ## Pré-Instalação
 
-- Ative o Hyper-V caso o seu dispositivo o possua e esteja desativado;
+- Ative o Hyper-V caso o seu dispositivo o possua e esteja desativado ([Instruções](../hyperv/README.md#ativar-hyper-v));
 - A arquitetura do processador do dispositivo deve ser 64 bits;
 - O dispositivo precisa de, no mínimo, 4 GB de memória RAM.
 
@@ -20,32 +20,32 @@ O Docker Desktop para Windows é a versão comunitária do Docker para Microsoft
 
     ![Baixar](./images/downloading.png)
 
-4. Em __Configurações__, clique em <kbd>Ok</kbd>;
+4. Em __Configuration__, clique em <kbd>Ok</kbd>;
 
     ![Configuracao](./images/configuration.png)
 
-5. Ao finalizar a instalação, clique em <kbd>Fechar e Sair</kbd> (<kbd>Close and log out</kbd>);
+5. Ao finalizar a instalação, clique em <kbd>Close and Restart</kbd>. Atenção: O Windows será reinicializado;
 
     ![Configuracao](./images/close.png)
 
 6. Uma notificação será exibida informando que o Docker está iniciando.
 
-
 ## Pós-Instalação
 
-1. Depois de iniciado o Docker, acesse suas configurações;
+1. Depois de iniciado o Docker, acesse o menu suspenso clicando com o botão direito no ícone do Docker na área de notificações da barra de tarefas;
 
     ![Icone](./images/icone.png)
 
+2. Em seguida, clique em __Settings__;
+
     ![Configuracoes](./images/settings.png)
 
-2. Selecione o menu __Shared Drives__ e selecione a unidade de disco __C__;
+3. Selecione o menu __Resources__ > __File Sharing__ e selecione a unidade de disco __C__;
 
     ![Shared](./images/shared_drivers.png)
 
-3. Em seguida, clique em <kbd>Aplicar e Reiniciar</kbd> (<kbd>Apply and Restart</kbd>);
-4. Informe sua senha para permitir o compartilhamento de unidade de disco, caso solicitado;
-5. Para concluir, clique em <kbd>OK</kbd>.
+4. Em seguida, clique em <kbd>Apply and Restart</kbd>. O Docker será reinicializado;
+5. Informe sua senha para permitir o compartilhamento de unidade de disco, caso solicitado.
 
 ## Verificação
 

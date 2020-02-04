@@ -67,7 +67,7 @@ Então, qual é a edição do seu Sistema Operacional?
 
 #### Docker Images
 
-Após instalar o Docker, execute os seguintes comandos, um a um, para baixar as imagens que serão utilizadas no treinamento:
+Após instalar o Docker, execute os seguintes comandos no terminal, um a um, para baixar as imagens que serão utilizadas no treinamento:
 
 ```bash
 $ docker pull jenkinsci/blueocean
