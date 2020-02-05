@@ -10,40 +10,22 @@
 
 ## Instalação
 
-1. Execute o arquivo de instalação após baixá-lo;
-2. Clique em <kbd>Sim</kbd> para permitir a execução do software;
-3. Em __Select Setup Language__, selecione a sua língua preferida e clique em <kbd>OK</kbd>;
+1. Descompacte o arquivo de instalação;
+2. Mova o executável __Visual Studio Code__ para __Applications__;
+3. Em seguida, execute-o;
+4. Ao executá-lo, você verá um aviso sobre software malicioso, isto porque o aplicativo não faz parte da Apple Store. Clique em <kbd>OK</kbd>;
 
-    ![Language](./images/Screenshot_1.png)
+    ![Alert](./images/step1.png)
 
-4. Em __License Agreement__, selecione a opção _I accept the agreement_ e clique em <kbd>Next</kbd>;
+5. Acesse as Configurações de Segurança e Privacidade;
+6. Em __General__, clique em <kbd>Open Anyway</kbd>;
 
-    ![License](./images/Screenshot_2.png)
+    ![Open Anyway](./images/step2.png)
 
-5. Em __Select Destination Location__, clique em <kbd>Next</kbd>;
+7. Mais uma vez você verá outro alerta, clique em <kbd>Open</kbd>;
 
-    ![Destination](./images/Screenshot_3.png)
+    ![Alert Open](./images/step3.png)
 
-6. Em __Select Start Menu Folder__, clique em <kbd>Next</kbd>;
+8.  Em seguida, o VSCode será aberto.
 
-    ![Menu](./images/Screenshot_4.png)
-
-7. Em __Select Additional Tasks__, marque todas as opções e clique em <kbd>Next</kbd>;
-
-    ![Tasks](./images/Screenshot_5.png)
-
-8. Em __Ready to Install__, clique em <kbd>Install</kbd>;
-
-    ![Install](./images/Screenshot_6.png)
-
-9. Aguarde a instalação do editor;
-
-    ![Installing](./images/Screenshot_7.png)
-
-10. Para finalizar, clique em <kbd>Finish</kbd>;
-
-    ![License](./images/Screenshot_8.png)
-
-11. Em seguida, o VSCode será aberto.
-
-    ![License](./images/Screenshot_9.png)
+    ![Open](./images/step4.png)
