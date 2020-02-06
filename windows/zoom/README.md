@@ -16,7 +16,7 @@
 
     ![Join](./images/join_id.png)
 
-6. Informe o Senha da reunião e clique em <kbd>Join</kbd>;
+6. Informe a senha da reunião e clique em <kbd>Join Meeting</kbd>;
 
     ![Join](./images/join_password.png)
 
@@ -24,10 +24,10 @@
 
     ![Wait](./images/wait.png)
 
-13. Se a reunião tiver iniciado, a seguinte tela aparecerá. Logo, aguarde sua inclusão por mim na reunião;
+8. Se a reunião tiver iniciado, a seguinte tela aparecerá. Logo, aguarde sua inclusão por mim na reunião;
 
     ![Wait](./images/waiting_room.png)
 
-14. Assim que sua participação na reunião seja aprovada, clique em <kbd>Join With Computer Audio</kbd>.
+9. Assim que sua participação na reunião seja aprovada, clique em <kbd>Join with Computer Audio</kbd>.
 
     ![Audio](./images/join_with_mic.png)

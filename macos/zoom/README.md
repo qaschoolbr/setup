@@ -33,7 +33,7 @@
 
     ![Join](./images/join_id.png)
 
-11. Informe o Senha da reunião e clique em <kbd>Join</kbd>;
+11. Informe a senha da reunião e clique em <kbd>Join</kbd>;
 
     ![Join](./images/join_password.png)
 
