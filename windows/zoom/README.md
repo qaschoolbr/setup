@@ -28,6 +28,6 @@
 
     ![Wait](./images/waiting_room.png)
 
-9. Assim que sua participação na reunião seja aprovada, clique em <kbd>Join with Computer Audio</kbd>.
+9. Assim que sua participação na reunião for aprovada, clique em <kbd>Join with Computer Audio</kbd>.
 
     ![Audio](./images/join_with_mic.png)
