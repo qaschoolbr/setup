@@ -4,13 +4,13 @@
 
 O Git é um sistema de controle de versão distribuído de código aberto e gratuito, projetado para lidar com tudo, desde projetos pequenos a grandes, com velocidade e eficiência.
 
-# Pré-Instalação
+## Pré-Instalação
 
 - Escolha a versão do Git conforme a arquitetura do seu dispositivo, isto é, 32 ou 64 bits.
 
   [Baixar Git for Windows](https://git-scm.com/download/win)
 
-# Instalação
+## Instalação
 
 1. Execute o arquivo de instalação após baixá-lo;
 2. Clique em <kbd>Sim</kbd> para permitir a execução do software;

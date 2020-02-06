@@ -6,40 +6,28 @@ O Docker Desktop para MacOS é a versão comunitária do Docker para Apple MacOS
 
 ## Instalação
 
-[Instruções para baixar e configurar do Docker Desktop](https://docs.docker.com/docker-for-windows/install/)
+[Instruções para baixar e configurar do Docker Desktop](https://docs.docker.com/docker-for-mac/install/)
 
 1. Execute o arquivo de instalação após baixá-lo;
-2. Clique em <kbd>Sim</kbd> para permitir a execução do software;
-3. Aguarde que o Docker baixe os pacotes necessários para continuar a instalação;
+2. Arraste o ícone do Docker para o diretório __Applications__;
 
-    ![Baixar](./images/downloading.png)
+    ![Drag](./images/docker_icon.png)
 
-4. Em __Configuration__, clique em <kbd>Ok</kbd>;
+3. Depois de instalado, execute o Docker e clique em <kbd>Open</kbd> para permitir sua execução;
 
-    ![Configuracao](./images/configuration.png)
+    ![Allow](./images/allow.png)
 
-5. Ao finalizar a instalação, clique em <kbd>Close and Restart</kbd>. Atenção: O Windows será reinicializado;
+4. Na nova janela, o Docker solicitará permissão para instalar componentes de rede, clique em <kbd>OK</kbd>;
 
-    ![Configuracao](./images/close.png)
+    ![Privileges](./images/privileges.png)
 
-6. Uma notificação será exibida informando que o Docker está iniciando.
+5. Informe sua senha e clique no botão azul, que deveria conter <kbd>OK</kbd> (bug found!);
 
-## Pós-Instalação
+    ![Password](./images/password.png)
 
-1. Depois de iniciado o Docker, acesse o menu suspenso clicando com o botão direito no ícone do Docker na área de notificações da barra de tarefas;
+6. Uma notificação será exibida informando que o Docker está pronto para uso.
 
-    ![Icone](./images/icone.png)
-
-2. Em seguida, clique em __Settings__;
-
-    ![Configuracoes](./images/settings.png)
-
-3. Selecione o menu __Resources__ > __File Sharing__ e selecione a unidade de disco __C__;
-
-    ![Shared](./images/shared_drivers.png)
-
-4. Em seguida, clique em <kbd>Apply and Restart</kbd>. O Docker será reinicializado;
-5. Informe sua senha para permitir o compartilhamento de unidade de disco, caso solicitado.
+    ![Ready](./images/ready.png)
 
 ## Verificação
 
