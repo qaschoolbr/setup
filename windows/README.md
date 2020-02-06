@@ -98,19 +98,10 @@ $ docker pull ruby
 
 O treinamento será transmitido através do aplicativo Zoom.
 
-1. Baixe e Instale o Zoom;
+* Baixe e Instale o Zoom.
 
-    [Instruções](...)
+  [Instruções de Instalação](./zoom/README.md)
 
-2. Ao finalizar a instalação, informe o seu nome e clique em <kbd>Join Meeting</kbd>;
-
-    ![Inserir Nome](./zoom/images/name.png)
-
-3. Em seguida, clique em <kbd>Join with Computer Audio</kbd>;
-
-    ![Entrar](./zoom/images/join.png)
-
-4. Se você entrar na sala de espera, aguarde o início da transmissão do evento.
 
 ### Play with Docker
 
