@@ -102,7 +102,6 @@ O treinamento será transmitido através do aplicativo Zoom.
 
   [Instruções de Instalação](./zoom/README.md)
 
-
 ### Play with Docker
 
 Caso você não queira instalar as ferramentas em seu dispositivo, pode usar o ambiente online. Basta clicar no botão abaixo que toda a estrutura necessária para o projeto será levantado para uso:
