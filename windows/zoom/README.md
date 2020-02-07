@@ -20,11 +20,11 @@
 
     ![Join](./images/join_password.png)
 
-7. Se a reunião não tiver iniciado, a seguinte tela aparecerá;
+7. Se a reunião não tiver iniciada, a seguinte tela aparecerá;
 
     ![Wait](./images/wait.png)
 
-8. Se a reunião tiver iniciado, a seguinte tela aparecerá. Logo, aguarde sua inclusão por mim na reunião;
+8. Se a reunião tiver iniciada, a seguinte tela aparecerá. Logo, aguarde sua inclusão por mim na reunião;
 
     ![Wait](./images/waiting_room.png)
 

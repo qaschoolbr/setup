@@ -104,6 +104,6 @@ O treinamento será transmitido através do aplicativo Zoom.
 
 ### Play with Docker
 
-Caso você não queira instalar as ferramentas em seu dispositivo, pode usar o ambiente online. Basta clicar no botão abaixo que toda a estrutura necessária para o projeto será levantado para uso:
+Caso você não queira instalar as ferramentas em seu dispositivo, pode usar o ambiente online. Basta clicar no botão abaixo que toda a estrutura necessária para o projeto será levantada para uso:
 
 [![Try in PWD](https://raw.githubusercontent.com/play-with-docker/stacks/master/assets/images/button.png)](https://labs.play-with-docker.com/?stack=https://raw.githubusercontent.com/qaschoolbr/cucumber/master/qaops-stack.yml)
