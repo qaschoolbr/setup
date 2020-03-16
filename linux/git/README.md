@@ -15,7 +15,9 @@ O Git é um sistema de controle de versão distribuído de código aberto e grat
 
 3. Informe sua senha e aguarde a instalação concluir.
 
-Observação: Se o seu Sistema Operacional não for Debian, siga a instrução contida neste link [https://git-scm.com/download/linux](https://git-scm.com/download/linux)
+**Observação**:
+
+> Se o seu Sistema Operacional não for Debian, siga a instrução contida neste link [https://git-scm.com/download/linux](https://git-scm.com/download/linux)
 
 ## Pós-Instalação
 
