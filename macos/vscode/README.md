@@ -26,6 +26,6 @@
 
     ![Alert Open](./images/step3.png)
 
-8.  Em seguida, o VSCode será aberto.
+8. Em seguida, o VSCode será aberto.
 
     ![Open](./images/step4.png)
