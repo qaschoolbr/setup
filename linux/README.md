@@ -39,3 +39,9 @@ Siga estritamente a ordem de instalação elencada abaixo:
 * Instale o Git
 
   [Instruções de Instalação](./git/README.md)
+
+### Ruby
+
+* Baixe e Instale o Ruby
+
+  [Instruções de Instalação](./ruby/README.md)
