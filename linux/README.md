@@ -45,3 +45,61 @@ Siga estritamente a ordem de instalação elencada abaixo:
 * Baixe e Instale o Ruby
 
   [Instruções de Instalação](./ruby/README.md)
+
+### Selenium WebDrivers
+
+* Baixe e Instale o ChromeDriver e o GeckoDriver
+
+  [Instruções de Instalação](./selenium/README.md)
+
+### Docker
+
+* Baixe e Instale Docker
+
+  [Instruções de Instalação](./docker/README.md)
+
+#### Docker Images
+
+Após instalar o Docker, execute os seguintes comandos no terminal, um a um, para baixar as imagens que serão utilizadas no treinamento:
+
+```bash
+$ docker pull jenkinsci/blueocean
+```
+
+```bash
+$ docker pull portainer/portainer
+```
+
+```bash
+$ docker pull qaschool/oficina
+```
+
+```bash
+$ docker pull qaschool/qaops
+```
+
+```bash
+$ docker pull redis
+```
+
+```bash
+$ docker pull redislabs/redisinsight
+```
+
+```bash
+$ docker pull ruby
+```
+
+### Zoom
+
+O treinamento será transmitido através do aplicativo Zoom.
+
+* Baixe e Instale o Zoom.
+
+  [Instruções de Instalação](./zoom/README.md)
+
+### Play with Docker
+
+Caso você não queira instalar as ferramentas em seu dispositivo, pode usar o ambiente online. Basta clicar no botão abaixo que toda a estrutura necessária para o projeto será levantada para uso:
+
+[![Try in PWD](https://raw.githubusercontent.com/play-with-docker/stacks/master/assets/images/button.png)](https://labs.play-with-docker.com/?stack=https://raw.githubusercontent.com/qaschoolbr/cucumber/master/qaops-stack.yml)
