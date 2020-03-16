@@ -48,6 +48,8 @@ O Selenium WebDriver comanda um navegador nativamente, como faria um usuário re
     ```bash
     # OBSERVAÇÃO: A versão do binário deve ser igual a do seu Google Chrome.
 
+    # Acesse http://chromedriver.chromium.org/downloads e verifique a versão correspondente mais atual.
+
     $ wget -N https://chromedriver.storage.googleapis.com/80.0.3987.106/chromedriver_linux64.zip -P ~/
     ```
 
