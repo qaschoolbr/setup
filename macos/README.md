@@ -34,6 +34,12 @@ Siga estritamente a ordem de instalação elencada abaixo:
   * [View In Browser](https://marketplace.visualstudio.com/items?itemName=qinjia.view-in-browser)
   * [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
 
+### Git for Mac
+
+* Instale o Git
+
+  [Instruções de Instalação](./git/README.md)
+
 ### Ruby
 
 * Instale o Ruby

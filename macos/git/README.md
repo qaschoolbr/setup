@@ -1,6 +1,6 @@
 ![Banner](./images/git_banner.jpg)
 
-# Git for Windows
+# Git for Mac
 
 O Git é um sistema de controle de versão distribuído de código aberto e gratuito, projetado para lidar com tudo, desde projetos pequenos a grandes, com velocidade e eficiência.
 

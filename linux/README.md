@@ -33,3 +33,9 @@ Siga estritamente a ordem de instalação elencada abaixo:
   * [Ruby Solargraph](https://marketplace.visualstudio.com/items?itemName=castwide.solargraph)
   * [View In Browser](https://marketplace.visualstudio.com/items?itemName=qinjia.view-in-browser)
   * [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
+
+### Git for Linux
+
+* Instale o Git
+
+  [Instruções de Instalação](./git/README.md)
