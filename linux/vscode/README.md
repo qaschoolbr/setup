@@ -27,6 +27,6 @@
 
     ![Wait](./images/wait.png)
 
-6. Ao final da instalação, abra o aplicativo VS Code;
+6. Ao final da instalação, abra o aplicativo VS Code.
 
     ![VSCode](./images/vscode.png)
