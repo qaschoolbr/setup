@@ -18,7 +18,7 @@ O Docker CE para Linux é a versão comunitária do Docker para o Linux.
     $ sudo apt-get install apt-transport-https ca-certificates curl gnupg-agent software-properties-common -y
     ```
 
-3. Adicione chave GPG:
+3. Adicione a chave GPG:
 
     ```bash
     $ curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
