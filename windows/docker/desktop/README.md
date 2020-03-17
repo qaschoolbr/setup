@@ -12,7 +12,7 @@ O Docker Desktop para Windows é a versão comunitária do Docker para Microsoft
 
 ## Instalação
 
-[Instruções para baixar e configurar do Docker Desktop](https://docs.docker.com/docker-for-windows/install/)
+[Instruções para baixar e configurar o Docker Desktop](https://docs.docker.com/docker-for-windows/install/)
 
 1. Execute o arquivo de instalação após baixá-lo;
 2. Clique em <kbd>Sim</kbd> para permitir a execução do software;

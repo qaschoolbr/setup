@@ -6,7 +6,7 @@ O Docker Desktop para MacOS é a versão comunitária do Docker para Apple MacOS
 
 ## Instalação
 
-[Instruções para baixar e configurar do Docker Desktop](https://docs.docker.com/docker-for-mac/install/)
+[Instruções para baixar e configurar o Docker Desktop](https://docs.docker.com/docker-for-mac/install/)
 
 1. Execute o arquivo de instalação após baixá-lo;
 2. Arraste o ícone do Docker para o diretório __Applications__;

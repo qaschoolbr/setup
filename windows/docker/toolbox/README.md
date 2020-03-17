@@ -10,7 +10,7 @@ O Docker Toolbox fornece uma maneira de usar o Docker em sistemas Windows que n�
 
 ## Instalação
 
-[Instruções para baixar e configurar do Docker Toolbox](https://docs.docker.com/v17.12/toolbox/toolbox_install_windows/)
+[Instruções para baixar e configurar o Docker Toolbox](https://docs.docker.com/v17.12/toolbox/toolbox_install_windows/)
 
 1. Execute o arquivo de instalação após baixá-lo;
 2. Clique em <kbd>Sim</kbd> para permitir a execução do software;
