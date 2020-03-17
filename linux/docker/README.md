@@ -2,7 +2,7 @@
 
 # Docker Desktop
 
-O Docker CE para Linux é a versão comunitária do Docker para Apple MacOS. Você pode baixar o Docker Desktop para MacOS no Docker Hub.
+O Docker CE para Linux é a versão comunitária do Docker para o Linux.
 
 ## Pré-Instalação
 
